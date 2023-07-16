@@ -17,9 +17,12 @@
 
 - 📫 How to reach me: **[Your email or best contact method here]**
 
+- ⚡ Fun fact: **[Share something interesting about yourself here]**
+
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://twitter.com/[your_twitter_handle]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[your_twitter_handle]" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/[your_linkedin_username]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="[your_linkedin_username]" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,3 +39,11 @@
 <h3 align="left">My GitHub Activity:</h3>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+<h3 align="left">My Latest Projects:</h3>
+<!-- PROJECTS:START -->
+<!-- PROJECTS:END -->
+
+<h3 align="left">My Achievements:</h3>
+<!-- ACHIEVEMENTS:START -->
+<!-- ACHIEVEMENTS:END -->
