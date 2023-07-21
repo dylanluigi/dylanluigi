@@ -5,19 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dylanluigi" alt="dylanluigi" /></a> </p>
 
-- 🔭 I’m currently working on **[Your current project here]**
+- 🔭 I’m currently working on: **Movie application**
 
-- 🌱 I’m currently learning **[What you're learning here]**
+- 🌱 I’m currently learning: **Dart**
 
-- 👯 I’m looking to collaborate on **[What you're looking to collaborate on here]**
+- 👯 I’m looking to collaborate on: **Java Minecraft Mod Development**
 
-- 🤝 I’m looking for help with **[What you're looking for help with here]**
+- 🤝 I’m looking for help with: **Dart app development / Javascript**
 
-- 💬 Ask me about **[Something you're knowledgeable about here]**
+- 📫 How to reach me: **dylanluigicg@gmail.com**
 
-- 📫 How to reach me: **[Your email or best contact method here]**
-
-- ⚡ Fun fact: **[Share something interesting about yourself here]**
+- ⚡ Fun fact: **Why did the Higgs Boson go to church?** For the mass.
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
