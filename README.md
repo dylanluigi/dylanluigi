@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World! 👋 I'm Dylan Luigi</h1>
+<h1 align="center">Hello, World! 👋 I'm Dylan</h1>
 <h3 align="center">Coding Enthusiast | Lifelong Learner | Tech Geek</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dylanluigi&label=Profile%20views&color=0e75b6&style=flat" alt="dylanluigi" /> </p>
