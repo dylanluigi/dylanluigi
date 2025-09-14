@@ -25,7 +25,6 @@
 
 ## Featured projects
 > A small selection of the hands-on things I’ve built.  
-> _Replace placeholders with your repo names if needed._
 
 - **Matrix Operations Benchmark (MVC + Concurrency + Strassen)** – GUI app that benchmarks addition/multiplication, plots runtime and hidden constants.
 - **Fractals & Tiling Visualizer** – Tromino/Domino tiling, Hilbert/Koch curves, Sierpiński; animated or Fork/Join parallel.
