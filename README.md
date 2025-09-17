@@ -67,7 +67,7 @@
   <img height="170" src="https://github-readme-stats-six-umber-68.vercel.app/api/top-langs?username=dylanluigi&layout=compact&langs_count=10" alt="Top languages" />
 </p>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dylanluigi" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-six-umber-68.vercel.app/api/wakatime?username=dylanluigi alt="WAKATIME" />
 </p>
 
 <!-- Optional trophies (can be noisy; keep if you like) -->
