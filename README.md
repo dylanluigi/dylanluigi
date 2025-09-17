@@ -63,7 +63,7 @@
 
 ## Stats & activity
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dylanluigi&show_icons=true&count_private=true&include_all_commits=true" alt="Dylan's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dylanluigi&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Dylan's GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=dylanluigi&layout=compact&langs_count=10" alt="Top languages" />
 </p>
 <p>
