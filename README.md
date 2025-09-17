@@ -96,14 +96,11 @@ Here is a selection of projects I've built. (Don't forget to replace `REPO_NAME_
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="flex: 1 1 45%;">
-    <img src="https://github-readme-stats-six-umber-68.vercel.app/api?username=dylanluigi&show_icons=true&count_private=true&include_all_commits=true&theme=merko" alt="Dylan's GitHub stats" width="100%" />
-  </div>
-  <div style="flex: 1 1 45%;">
-    <img src="https://github-readme-stats-six-umber-68.vercel.app/api/top-langs?username=dylanluigi&hide_progress=true&langs_count=15&theme=merko&cache_seconds=7200" alt="Top languages (minimal)" width="100%" />
-  </div>
-</div>
+<p>
+  <img src="https://github-readme-stats-six-umber-68.vercel.app/api?username=dylanluigi&show_icons=true&count_private=true&include_all_commits=true&theme=merko" alt="Dylan's GitHub stats" width="100%" />
+
+  <img src="https://github-readme-stats-six-umber-68.vercel.app/api/top-langs?username=dylanluigi&hide_progress=true&langs_count=15&theme=merko&cache_seconds=7200" alt="Top languages (minimal)" width="100%" />
+</p>
 
 ### 📫 Get In Touch
 
