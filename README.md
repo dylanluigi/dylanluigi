@@ -35,8 +35,8 @@
 
 <!-- Optional: show repo cards (swap REPO_NAME with actual repo slugs)
 <p align="left">
-  <a href="https://github.com/dylanluigi/REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dylanluigi&repo=REPO_NAME&theme=default" /></a>
-  <a href="https://github.com/dylanluigi/REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dylanluigi&repo=REPO_NAME&theme=default" /></a>
+  <a href="https://github.com/dylanluigi/REPO_NAME"><img src="https://github-readme-stats-irl0gznnj-dylanluigis-projects.vercel.app/api/pin/?username=dylanluigi&repo=REPO_NAME&theme=default" /></a>
+  <a href="https://github.com/dylanluigi/REPO_NAME"><img src="https://github-readme-stats-irl0gznnj-dylanluigis-projects.vercel.app/api/pin/?username=dylanluigi&repo=REPO_NAME&theme=default" /></a>
 </p>
 -->
 
