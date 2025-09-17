@@ -101,7 +101,6 @@ Here is a selection of projects I've built. (Don't forget to replace `REPO_NAME_
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/makefile/makefile-original.svg" alt="Makefile" height="32"/> <!-- fallback, see note -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" alt="Objective-C" height="32"/>
 </p>
