@@ -49,7 +49,7 @@ Here is a selection of projects I've built. (Don't forget to replace `REPO_NAME_
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/dylanluigi/Testing-with-Concept-Activation-Vectors" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylanluigi&repo=Testing-with-Concept-Activation-Vectors&theme=merko" alt="Testing with Concept Activation Vectors"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylanluigi&repo=Testing-with-Concept-Activation-Vectors&theme=merko&cache_seconds=3600" alt="Testing with Concept Activation Vectors"/>
       </a>
     </td>
     <td width="50%" valign="top">
@@ -66,7 +66,7 @@ Here is a selection of projects I've built. (Don't forget to replace `REPO_NAME_
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/dylanluigi/Lexical-Distance-Analyzer" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylanluigi&repo=Lexical-Distance-Analyzer&theme=merko" alt="Lexical Distance Analyzer"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylanluigi&repo=Lexical-Distance-Analyzer&theme=merko&cache_seconds=3600" alt="Lexical Distance Analyzer"/>
       </a>
     </td>
   </tr>
