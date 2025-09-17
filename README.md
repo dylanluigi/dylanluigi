@@ -66,9 +66,12 @@
   <img height="170" src="https://github-readme-stats-six-umber-68.vercel.app/api?username=dylanluigi&show_icons=true&count_private=true&include_all_commits=true&theme=merko" alt="Dylan's GitHub stats" />
   <img height="170" src="https://github-readme-stats-six-umber-68.vercel.app/api/top-langs?username=dylanluigi&layout=compact&langs_count=10" alt="Top languages" />
 </p>
-<p>
-  <img src="https://github-readme-stats-six-umber-68.vercel.app/api/wakatime?username=dylanluigi alt="WAKATIME" />
+<p align="left">
+  <a href="https://github.com/dylanluigi/Testing-with-Concept-Activation-Vectors"><img src="https://github-readme-stats-six-umber-68.vercel.app/api/pin/?username=dylanluigi&repo=YOUR_REPO_NAME_1&theme=default" /></a>
+  <a href="https://github.com/dylanluigi/Dual-Landscape-Classifier-Multi-Head-NN"><img src="https://github-readme-stats-six-umber-68.vercel.app/api/pin/?username=dylanluigi&repo=YOUR_REPO_NAME_2&theme=default" /></a>
+  <a href="https://github.com/dylanluigi/Point-Cluster-Distance-Calculations-and-Visualizer"><img src="https://github-readme-stats-six-umber-68.vercel.app/api/pin/?username=dylanluigi&repo=YOUR_REPO_NAME_2&theme=default" /></a>
 </p>
+
 
 <!-- Optional trophies (can be noisy; keep if you like) -->
 <!--
@@ -81,7 +84,6 @@
 
 ## Get in touch
 
-## Get in touch
 
 <p align="center">
   <a href="https://twitter.com/dylanluigi2" target="_blank">
