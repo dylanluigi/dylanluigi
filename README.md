@@ -77,6 +77,7 @@ Here is a selection of projects I've built. (Don't forget to replace `REPO_NAME_
 ### 🛠️ My Tech Stack
 
 <p align="center">
+  <!-- Already in your list -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="32"/>
@@ -90,17 +91,30 @@ Here is a selection of projects I've built. (Don't forget to replace `REPO_NAME_
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" height="32"/>
+
+  <!-- Missing from screenshot -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="CMake" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/makefile/makefile-original.svg" alt="Makefile" height="32"/> <!-- fallback, see note -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" alt="Objective-C" height="32"/>
 </p>
+
 
 ---
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats-six-umber-68.vercel.app/api?username=dylanluigi&show_icons=true&count_private=true&include_all_commits=true&theme=merko" alt="Dylan's GitHub stats" width="100%" />
-
-  <img src="https://github-readme-stats-six-umber-68.vercel.app/api/top-langs?username=dylanluigi&hide_progress=true&langs_count=15&theme=merko&cache_seconds=7200" alt="Top languages (minimal)" width="100%" />
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats-six-umber-68.vercel.app/api?username=dylanluigi&show_icons=true&count_private=true&include_all_commits=true&theme=merko" alt="Dylan's GitHub stats" width="49%" />
+  <img src="https://github-readme-stats-six-umber-68.vercel.app/api/top-langs?username=dylanluigi&hide_progress=true&langs_count=15&theme=merko&cache_seconds=7200" alt="Top languages (minimal)" width="49%" />
+</div>
 
 ### 📫 Get In Touch
 
