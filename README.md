@@ -4,7 +4,7 @@
   </a>
 
   <h1>
-    Hey, I'm Dylan 👋
+    Hey, I'm Dylan
   </h1>
 
   <p>
@@ -48,14 +48,15 @@ Here is a selection of projects I've built. (Don't forget to replace `REPO_NAME_
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/dylanluigi/REPO_NAME_TSP_SOLVER" target="_blank">
+      <a href="https://github.com/dylanluigi/Testing-with-Concept-Activation-Vectors" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylanluigi&repo=REPO_NAME_TSP_SOLVER&theme=merko" alt="TSP Solver & Visualizer"/>
       </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/dylanluigi/REPO_NAME_MATRIX_BENCHMARK" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylanluigi&repo=REPO_NAME_MATRIX_BENCHMARK&theme=merko" alt="Matrix Operations Benchmark"/>
+    <a href="https://github.com/dylanluigi/Dual-Landscape-Classifier-Multi-Head-NN" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylanluigi&repo=Dual-Landscape-Classifier-Multi-Head-NN&theme=merko" alt="Dual-Head Image Classifier"/>
       </a>
+      
     </td>
   </tr>
   <tr>
@@ -65,9 +66,10 @@ Here is a selection of projects I've built. (Don't forget to replace `REPO_NAME_
       </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/dylanluigi/Dual-Landscape-Classifier-Multi-Head-NN" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylanluigi&repo=Dual-Landscape-Classifier-Multi-Head-NN&theme=merko" alt="Dual-Head Image Classifier"/>
+      <a href="https://github.com/dylanluigi/Lexical-Distance-Analyzer" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylanluigi&repo=REPO_NAME_MATRIX_BENCHMARK&theme=merko" alt="Matrix Operations Benchmark"/>
       </a>
+      
     </td>
   </tr>
 </table>
