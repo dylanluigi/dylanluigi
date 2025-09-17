@@ -67,9 +67,9 @@
   <img height="170" src="https://github-readme-stats-six-umber-68.vercel.app/api/top-langs?username=dylanluigi&layout=compact&langs_count=10" alt="Top languages" />
 </p>
 <p align="left">
-  <a href="https://github.com/dylanluigi/Testing-with-Concept-Activation-Vectors"><img src="https://github-readme-stats-six-umber-68.vercel.app/api/pin/?username=dylanluigi&repo=YOUR_REPO_NAME_1&theme=default" /></a>
-  <a href="https://github.com/dylanluigi/Dual-Landscape-Classifier-Multi-Head-NN"><img src="https://github-readme-stats-six-umber-68.vercel.app/api/pin/?username=dylanluigi&repo=YOUR_REPO_NAME_2&theme=default" /></a>
-  <a href="https://github.com/dylanluigi/Point-Cluster-Distance-Calculations-and-Visualizer"><img src="https://github-readme-stats-six-umber-68.vercel.app/api/pin/?username=dylanluigi&repo=YOUR_REPO_NAME_2&theme=default" /></a>
+  <a href="https://github.com/dylanluigi/Testing-with-Concept-Activation-Vectors"><img src="https://github-readme-stats-six-umber-68.vercel.app/api/pin/?username=dylanluigi&repo=Testing-with-Concept-Activation-Vectors&theme=default" /></a>
+  <a href="https://github.com/dylanluigi/Dual-Landscape-Classifier-Multi-Head-NN"><img src="https://github-readme-stats-six-umber-68.vercel.app/api/pin/?username=dylanluigi&repo=Dual-Landscape-Classifier-Multi-Head-NN&theme=default" /></a>
+  <a href="https://github.com/dylanluigi/Point-Cluster-Distance-Calculations-and-Visualizer"><img src="https://github-readme-stats-six-umber-68.vercel.app/api/pin/?username=dylanluigi&repo=Point-Cluster-Distance-Calculations-and-Visualizer&theme=default" /></a>
 </p>
 
 
