@@ -48,24 +48,24 @@ I'm a Computer Science student specializing in AI explainability. My focus is on
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/dylanluigi/Testing-with-Concept-Activation-Vectors" target="_blank">
-        <img src="https://github-readme-stats-six-umber-68.vercel.app/api/pin/?username=dylanluigi&repo=Testing-with-Concept-Activation-Vectors&theme=merko&cache_seconds=3600" alt="Testing with Concept Activation Vectors"/>
+        <img src="https://github-readme-stats-six-umber-68.vercel.app/api/pin/?username=dylanluigi&repo=Testing-with-Concept-Activation-Vectors&theme=highcontrast&cache_seconds=3600" alt="Testing with Concept Activation Vectors"/>
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/dylanluigi/Dual-Landscape-Classifier-Multi-Head-NN" target="_blank">
-        <img src="https://github-readme-stats-six-umber-68.vercel.app/api/pin/?username=dylanluigi&repo=Dual-Landscape-Classifier-Multi-Head-NN&theme=merko" alt="Dual-Head Image Classifier"/>
+        <img src="https://github-readme-stats-six-umber-68.vercel.app/api/pin/?username=dylanluigi&repo=Dual-Landscape-Classifier-Multi-Head-NN&theme=highcontrast" alt="Dual-Head Image Classifier"/>
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/dylanluigi/Point-Cluster-Distance-Calculations-and-Visualizer" target="_blank">
-        <img src="https://github-readme-stats-six-umber-68.vercel.app/api/pin/?username=dylanluigi&repo=Point-Cluster-Distance-Calculations-and-Visualizer&theme=merko" alt="Point-Cloud Geometry Analyzer"/>
+        <img src="https://github-readme-stats-six-umber-68.vercel.app/api/pin/?username=dylanluigi&repo=Point-Cluster-Distance-Calculations-and-Visualizer&theme=highcontrast" alt="Point-Cloud Geometry Analyzer"/>
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/dylanluigi/Lexical-Distance-Analyzer" target="_blank">
-        <img src="https://github-readme-stats-six-umber-68.vercel.app/api/pin/?username=dylanluigi&repo=Lexical-Distance-Analyzer&theme=merko&cache_seconds=3600" alt="Lexical Distance Analyzer"/>
+        <img src="https://github-readme-stats-six-umber-68.vercel.app/api/pin/?username=dylanluigi&repo=Lexical-Distance-Analyzer&theme=highcontrast&cache_seconds=3600" alt="Lexical Distance Analyzer"/>
       </a>
     </td>
   </tr>
@@ -110,8 +110,8 @@ I'm a Computer Science student specializing in AI explainability. My focus is on
 ### 📊 GitHub Stats
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats-six-umber-68.vercel.app/api?username=dylanluigi&show_icons=true&count_private=true&include_all_commits=true&theme=merko" alt="Dylan's GitHub stats" width="49%" />
-  <img src="https://github-readme-stats-six-umber-68.vercel.app/api/top-langs?username=dylanluigi&hide_progress=true&langs_count=15&theme=merko&cache_seconds=7200" alt="Top languages (minimal)" width="49%" />
+  <img src="https://github-readme-stats-six-umber-68.vercel.app/api?username=dylanluigi&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast" alt="Dylan's GitHub stats" width="49%" />
+  <img src="https://github-readme-stats-six-umber-68.vercel.app/api/top-langs?username=dylanluigi&hide_progress=true&langs_count=15&theme=highcontrast&cache_seconds=7200" alt="Top languages (minimal)" width="49%" />
 </div>
 
 ### 📫 Get In Touch
