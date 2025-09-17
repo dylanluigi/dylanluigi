@@ -1,113 +1,113 @@
-<!-- Profile README – Dylan Canning Garcia -->
-<!-- Tip: replace any REPO_NAME placeholders with the real repo slugs. -->
-
 <div align="center">
+  <a href="https://github.com/dylanluigi">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+  </a>
 
-# Hey, I'm **Dylan**  
-**Computer Engineering  Explainable AI • Algorithms • Data Science**  
+  <h1>
+    Hey, I'm Dylan 👋
+  </h1>
 
-[![Profile views](https://komarev.com/ghpvc/?username=dylanluigi&label=Views&color=0e75b6&style=flat)](https://github.com/dylanluigi)
-[![Followers](https://img.shields.io/github/followers/dylanluigi?style=flat&color=0e75b6)](https://github.com/dylanluigi?tab=followers)
-[![Stars](https://img.shields.io/github/stars/dylanluigi?affiliations=OWNER&style=flat&color=0e75b6)](https://github.com/dylanluigi?tab=repositories)
+  <p>
+    <strong>Computer Engineering Student | Explainable AI • Algorithms • Data Science</strong>
+  </p>
 
+  <p>
+    <a href="https://github.com/dylanluigi">
+      <img src="https://komarev.com/ghpvc/?username=dylanluigi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+    </a>
+    <a href="https://github.com/dylanluigi?tab=followers">
+      <img src="https://img.shields.io/github/followers/dylanluigi?label=Followers&style=flat-square&color=0e75b6" alt="Followers"/>
+    </a>
+    <a href="https://github.com/dylanluigi?tab=repositories">
+      <img src="https://img.shields.io/github/stars/dylanluigi?affiliations=OWNER&style=flat-square&color=0e75b6" alt="Stars"/>
+    </a>
+  </p>
 </div>
-
-## About me
-- CS student specializing in artificial intelligence explainability, building algorithmic, concurrent, and interactive tools for easier learning.
-- Interests: explainable AI (XAI), computational geometry, graph algorithms (TSP, hulls, closest pair) and tidy MVC app design.
-- I like turning theory into visual, usable software (Java/JavaFX/Swing), with a sprinkle of parallelism when it pays off.
-- I also tinker with systems & networking projects for real-world deployments.
-
-## What I'm doing now
-- **Learning and specializing:** in XAI with a specific interest in model interpretability (TCAV), better parallel patterns, and practical data tooling in Python.
-- **Current build:** polishing my **Point-Cloud Geometry Analyzer** (2D/3D; QuickHull, Closest Pair, Diameter).
-- **Open to collaborating on:** Java/JavaFX apps, algorithm visualizers, explainable AI tooling, and performance profiling.
-
-## Featured projects
-> A small selection of the hands-on things I’ve built.  
-
-- **Matrix Operations Benchmark (MVC + Concurrency + Strassen)** – GUI app that benchmarks addition/multiplication, plots runtime and hidden constants.
-- **Fractals & Tiling Visualizer** – Tromino/Domino tiling, Hilbert/Koch curves, Sierpiński; animated or Fork/Join parallel.
-- **RSA Compression→Encryption Pipeline** – End-to-end Huffman/LZW → RSA with an adaptive concurrency manager.
-- **TSP Solver & Visualizer** – Brute, Greedy (multi-start), Held–Karp, Branch & Bound (sequential + Fork/Join) with live canvas.
-- **LexDistance** – Levenshtein, Damerau, LCS, Jaro–Winkler; full distance matrix, graph, and dendrogram (JavaFX).
-- **Dual-Head Image Classifier** – Multi-task MLP (land-cover + time-of-day) with HSV features and a JavaFX front-end.
-
-<!-- Optional: show repo cards (swap REPO_NAME with actual repo slugs)
-<p align="left">
-  <a href="https://github.com/dylanluigi/REPO_NAME"><img src="https://github-readme-stats-irl0gznnj-dylanluigis-projects.vercel.app/api/pin/?username=dylanluigi&repo=REPO_NAME&theme=default" /></a>
-  <a href="https://github.com/dylanluigi/REPO_NAME"><img src="https://github-readme-stats-irl0gznnj-dylanluigis-projects.vercel.app/api/pin/?username=dylanluigi&repo=REPO_NAME&theme=default" /></a>
-</p>
--->
-
-## Tech I use
-<p align="left">
-  <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="32"/>
-  <!-- UI / Frameworks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="JavaFX/Swing" title="JavaFX/Swing" height="32"/>
-  <!-- Data / ML -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" height="32"/>
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" height="32"/>
-</p>
-
-## Stats & activity
-<p align="left">
-  <img height="170" src="https://github-readme-stats-six-umber-68.vercel.app/api?username=dylanluigi&show_icons=true&count_private=true&include_all_commits=true&theme=merko" alt="Dylan's GitHub stats" />
-  <img height="170" src="https://github-readme-stats-six-umber-68.vercel.app/api/top-langs?username=dylanluigi&layout=compact&langs_count=10" alt="Top languages" />
-</p>
-<p align="left">
-  <a href="https://github.com/dylanluigi/Testing-with-Concept-Activation-Vectors"><img src="https://github-readme-stats-six-umber-68.vercel.app/api/pin/?username=dylanluigi&repo=Testing-with-Concept-Activation-Vectors&theme=default" /></a>
-  <a href="https://github.com/dylanluigi/Dual-Landscape-Classifier-Multi-Head-NN"><img src="https://github-readme-stats-six-umber-68.vercel.app/api/pin/?username=dylanluigi&repo=Dual-Landscape-Classifier-Multi-Head-NN&theme=default" /></a>
-  <a href="https://github.com/dylanluigi/Point-Cluster-Distance-Calculations-and-Visualizer"><img src="https://github-readme-stats-six-umber-68.vercel.app/api/pin/?username=dylanluigi&repo=Point-Cluster-Distance-Calculations-and-Visualizer&theme=default" /></a>
-</p>
-
-
-<!-- Optional trophies (can be noisy; keep if you like) -->
-<!--
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dylanluigi&margin-w=8&margin-h=8&column=7" alt="trophies"/>
-  </a>
-</p>
--->
-
-## Get in touch
-
-
-<p align="center">
-  <a href="https://twitter.com/dylanluigi2" target="_blank">
-    <img src="https://img.shields.io/badge/X-@dylanluigi2-000?logo=x&logoColor=white&style=for-the-badge" alt="X (Twitter)">
-  </a>
-  <a href="https://www.linkedin.com/in/dylan-canning/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Dylan%20Canning-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
-  </a>
-  <a href="mailto:dylanluigicg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dylanluigicg%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
-  </a>
-</p>
 
 ---
 
+### 👨‍💻 About Me
 
->  Fun fact: Why did the Higgs Boson go to church? For the mass.  
->  Backup: “I don’t always overfit—only on weekends.”
+I'm a Computer Science student specializing in AI explainability. My focus is on building algorithmic, concurrent, and interactive tools to make complex concepts easier to understand.
 
-<!-- Extras you can enable later:
-1) Contribution snake (requires a GitHub Action):
-   https://github.com/Platane/snk
-2) 3D profile contributions:
-   https://github.com/yoshi389111/github-profile-3d-contrib
-3) Typing SVG headline:
-   https://readme-typing-svg.demolab.com
--->
+-   🔭 **Interests:** Explainable AI (XAI), computational geometry, graph algorithms, and clean MVC application design.
+-   🌱 **Passion:** I love turning theory into visual, usable software (primarily with Java/JavaFX/Swing), often with a touch of parallelism for performance.
+-   ⚡ **Also:** I enjoy tinkering with systems and networking projects for real-world applications.
+
+### 🚀 What I'm Up To
+
+-   **Learning:** Deepening my knowledge of XAI (especially model interpretability with TCAV), advanced parallel patterns, and practical data tooling in Python.
+-   **Building:** Currently polishing my **Point-Cloud Geometry Analyzer** (2D/3D; QuickHull, Closest Pair, Diameter).
+-   **Collaborating:** Open to working on Java/JavaFX apps, algorithm visualizers, XAI tools, and performance profiling projects.
+
+---
+
+### ✨ Featured Projects
+Here is a selection of projects I've built. (Don't forget to replace `REPO_NAME_...` with your actual repo slugs!)
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/dylanluigi/REPO_NAME_TSP_SOLVER" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylanluigi&repo=REPO_NAME_TSP_SOLVER&theme=merko" alt="TSP Solver & Visualizer"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/dylanluigi/REPO_NAME_MATRIX_BENCHMARK" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylanluigi&repo=REPO_NAME_MATRIX_BENCHMARK&theme=merko" alt="Matrix Operations Benchmark"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/dylanluigi/Point-Cluster-Distance-Calculations-and-Visualizer" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylanluigi&repo=Point-Cluster-Distance-Calculations-and-Visualizer&theme=merko" alt="Point-Cloud Geometry Analyzer"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/dylanluigi/Dual-Landscape-Classifier-Multi-Head-NN" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylanluigi&repo=Dual-Landscape-Classifier-Multi-Head-NN&theme=merko" alt="Dual-Head Image Classifier"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ My Tech Stack
+
+<div align="center">
+
+| **Languages** | **UI / Frontend** | **Data Science / ML** | **Tools & Platforms** |
+| :-----------: | :---------------: | :-------------------: | :-------------------: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="32"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="JavaFX/Swing" title="JavaFX/Swing" height="32"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="32"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="32"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="32"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="32"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" height="32"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="32"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="32"/> | | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" height="32"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="32"/> |
+| | | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" height="32"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" height="32"/> |
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dylanluigi&show_icons=true&count_private=true&include_all_commits=true&theme=merko" alt="Dylan's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dylanluigi&layout=compact&langs_count=10&theme=merko" alt="Top languages" height="170" />
+</div>
+
+---
+
+### 📫 Get In Touch
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dylan-canning/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/dylanluigi2" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
+  </a>
+  <a href="mailto:dylanluigicg@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
