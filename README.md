@@ -98,54 +98,13 @@ Here is a selection of projects I've built. (Don't forget to replace `REPO_NAME_
 
 <p>
   <img src="https://github-readme-stats-six-umber-68.vercel.app/api?username=dylanluigi&show_icons=true&count_private=true&include_all_commits=true&theme=merko" alt="Dylan's GitHub stats" height="170" />
-  <!-- Hides Jupyter Notebook bytes entirely (URI-escaped) -->
-<img
-  src="https://github-readme-stats-six-umber-68.vercel.app/api/top-langs?username=dylanluigi&layout=compact&langs_count=12&hide=jupyter%20notebook&theme=merko&cache_seconds=7200"
-  alt="Top languages (code-only)"
-  height="170"
-/>
-<!-- Balanced mix: reduces domination by huge repos (e.g., notebooks) -->
-<img
-  src="https://github-readme-stats-six-umber-68.vercel.app/api/top-langs?username=dylanluigi&layout=compact&langs_count=12&size_weight=0.5&count_weight=0.5&theme=merko&cache_seconds=7200"
-  alt="Top languages (balanced size/repo)"
-  height="170"
-/>
-<!-- Replace <SLUG_1>,<SLUG_2> with exact repo names to exclude -->
-<img
-  src="https://github-readme-stats-six-umber-68.vercel.app/api/top-langs?username=dylanluigi&layout=compact&langs_count=12&exclude_repo=<SLUG_1>,<SLUG_2>&theme=merko&cache_seconds=7200"
-  alt="Top languages (excluding heavy repos)"
-  height="170"
-/>
-
-
-<!-- Shows raw bytes instead of percentages -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    src="https://github-readme-stats-six-umber-68.vercel.app/api/top-langs?username=dylanluigi&layout=donut&langs_count=10&stats_format=bytes&custom_title=Codebase%20makeup%20(bytes)&theme=merko&cache_seconds=7200"
-    alt="Top languages (bytes view)"
-    height="200"
-  />
-</a>
-
-<!-- Heavily weights repo count over bytes -->
-<img
-  src="https://github-readme-stats-six-umber-68.vercel.app/api/top-langs?username=dylanluigi&layout=pie&langs_count=12&size_weight=0.3&count_weight=0.7&custom_title=Top%20Languages%20(by%20repo%20diversity)&theme=merko&cache_seconds=7200"
-  alt="Top languages (repo-diversity weighted)"
-  height="200"
-/>
-
-<!-- Compact + no progress bars (auto-compact) -->
+  
 <img
   src="https://github-readme-stats-six-umber-68.vercel.app/api/top-langs?username=dylanluigi&hide_progress=true&langs_count=15&theme=merko&cache_seconds=7200"
   alt="Top languages (minimal)"
   height="170"
 />
-<!-- Example of curating what's shown -->
-<img
-  src="https://github-readme-stats-six-umber-68.vercel.app/api/top-langs?username=dylanluigi&layout=donut-vertical&langs_count=10&hide=jupyter%20notebook,html,css,scss&custom_title=Systems%20Languages&theme=merko&cache_seconds=7200"
-  alt="Top languages (systems-focused)"
-  height="260"
-/>
+
 </p>
 
 ### 📫 Get In Touch
