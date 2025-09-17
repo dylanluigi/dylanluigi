@@ -43,7 +43,6 @@ I'm a Computer Science student specializing in AI explainability. My focus is on
 ---
 
 ### ✨ Featured Projects
-Here is a selection of projects I've built. (Don't forget to replace `REPO_NAME_...` with your actual repo slugs!)
 
 <table width="100%">
   <tr>
