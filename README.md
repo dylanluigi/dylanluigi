@@ -49,14 +49,13 @@ Here is a selection of projects I've built. (Don't forget to replace `REPO_NAME_
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/dylanluigi/Testing-with-Concept-Activation-Vectors" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylanluigi&repo=REPO_NAME_TSP_SOLVER&theme=merko" alt="TSP Solver & Visualizer"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylanluigi&repo=Testing-with-Concept-Activation-Vectors&theme=merko" alt="Testing with Concept Activation Vectors"/>
       </a>
     </td>
     <td width="50%" valign="top">
-    <a href="https://github.com/dylanluigi/Dual-Landscape-Classifier-Multi-Head-NN" target="_blank">
+      <a href="https://github.com/dylanluigi/Dual-Landscape-Classifier-Multi-Head-NN" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylanluigi&repo=Dual-Landscape-Classifier-Multi-Head-NN&theme=merko" alt="Dual-Head Image Classifier"/>
       </a>
-      
     </td>
   </tr>
   <tr>
@@ -67,9 +66,8 @@ Here is a selection of projects I've built. (Don't forget to replace `REPO_NAME_
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/dylanluigi/Lexical-Distance-Analyzer" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylanluigi&repo=REPO_NAME_MATRIX_BENCHMARK&theme=merko" alt="Matrix Operations Benchmark"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylanluigi&repo=Lexical-Distance-Analyzer&theme=merko" alt="Lexical Distance Analyzer"/>
       </a>
-      
     </td>
   </tr>
 </table>
