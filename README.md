@@ -63,8 +63,8 @@
 
 ## Stats & activity
 <p align="left">
-  <img height="170" src="github-readme-stats-git-master-dylanluigis-projects.vercel.app/api?username=dylanluigi&show_icons=true&count_private=true&include_all_commits=true&theme=merko" alt="Dylan's GitHub stats" />
-  <img height="170" src="github-readme-stats-git-master-dylanluigis-projects.vercel.appp/api/top-langs?username=dylanluigi&layout=compact&langs_count=10" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats-git-master-dylanluigis-projects.vercel.app/api?username=dylanluigi&show_icons=true&count_private=true&include_all_commits=true&theme=merko" alt="Dylan's GitHub stats" />
+  <img height="170" src="https://github-readme-stats-git-master-dylanluigis-projects.vercel.appp/api/top-langs?username=dylanluigi&layout=compact&langs_count=10" alt="Top languages" />
 </p>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dylanluigi" alt="GitHub Streak" />
