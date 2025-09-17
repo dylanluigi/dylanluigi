@@ -54,7 +54,7 @@ Here is a selection of projects I've built. (Don't forget to replace `REPO_NAME_
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/dylanluigi/Dual-Landscape-Classifier-Multi-Head-NN" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylanluigi&repo=Dual-Landscape-Classifier-Multi-Head-NN&theme=merko" alt="Dual-Head Image Classifier"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dylanluigi&repo=Testing-with-Concept-Activation-Vectors&theme=merko" alt="Dual-Head Image Classifier"/>
       </a>
     </td>
   </tr>
