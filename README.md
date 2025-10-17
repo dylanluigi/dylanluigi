@@ -111,6 +111,7 @@ I'm a Computer Science student specializing in AI explainability. My focus is on
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats-six-umber-68.vercel.app/api?username=dylanluigi&show_icons=true&count_private=true&include_all_commits=true&theme=calm_pink" alt="Dylan's GitHub stats" width="49%" />
+  <br>
   <img src="https://github-readme-stats-six-umber-68.vercel.app/api/top-langs?username=dylanluigi&hide_progress=true&langs_count=15&theme=calm_pink&cache_seconds=7200" alt="Top languages (minimal)" width="49%" />
 </div>
 
