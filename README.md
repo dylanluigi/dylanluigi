@@ -110,7 +110,7 @@ I'm a Computer Science student specializing in AI explainability. My focus is on
 ### 📊 GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 100vw;">
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; width: 90%; max-width: 800px;">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; width: 90%; max-width: 600px;">
     <img src="https://github-readme-stats-six-umber-68.vercel.app/api?username=dylanluigi&show_icons=true&count_private=true&include_all_commits=true&theme=calm_pink" alt="Dylan's GitHub stats" width="100%" />
     <img src="https://github-readme-stats-six-umber-68.vercel.app/api/top-langs?username=dylanluigi&hide_progress=true&langs_count=15&theme=calm_pink&cache_seconds=7200" alt="Top languages (minimal)" width="100%" />
   </div>
