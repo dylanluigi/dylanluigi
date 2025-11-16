@@ -48,7 +48,7 @@ I'm a Computer Science student specializing in AI explainability. My focus is on
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/dylanluigi/Testing-with-Concept-Activation-Vectors" target="_blank">
-        <img src="https://github-readme-stats-irl0gznnj-dylanluigis-projects.vercel.app/api/pin/?username=dylanluigi&repo=Testing-with-Concept-Activation-Vectors&theme=calm_pink&cache_seconds=3600" alt="Testing with Concept Activation Vectors"/>
+        <img src="https://github-readme-stats-six-umber-68.vercel.app/api/pin/?username=dylanluigi&repo=Testing-with-Concept-Activation-Vectors&theme=calm_pink&cache_seconds=3600" alt="Testing with Concept Activation Vectors"/>
       </a>
     </td>
     <td width="50%" valign="top">
